@@ -25,7 +25,7 @@ Initialement, l'application utilisait l'API d'OpenAI avec une clé API (`xksksk-
    ```
 2. Accédez au dossier du projet :
    ```bash
-   cd chatbot_counter_app
+   cd chat-bot-flutter-openai-v1
    ```
 3. Installez les dépendances :
    ```bash
