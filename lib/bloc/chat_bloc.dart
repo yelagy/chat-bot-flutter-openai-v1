@@ -5,7 +5,7 @@ import 'chat_event.dart';
 import 'chat_state.dart';
 
 class ChatBloc extends Bloc<ChatEvent, ChatState> {
-  final String apiKey = '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'; // Replace with your OpenAI API key
+  final String apiKey = 'xksksk-sdfdsfd0dsfsdf-sdfsdfds'; // Replace with your OpenAI API key
   List<Message> messages = [];
 
   ChatBloc() : super(ChatInitial()) {
