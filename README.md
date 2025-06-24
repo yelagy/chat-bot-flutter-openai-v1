@@ -41,9 +41,12 @@ Initialement, l'application utilisait l'API d'OpenAI avec une clé API (`xksksk-
    ```
 
 ## Captures d'écran
-- **Écran d'authentification** : Affiche un logo centré en haut, suivi de deux champs de texte pour le nom d'utilisateur et le mot de passe, et un bouton de connexion. Le logo est chargé depuis `assets/logo.png`.  
+
+- **Écran d'authentification** : Affiche un logo centré en haut, suivi de deux champs de texte pour le nom d'utilisateur et le mot de passe, et un bouton de connexion. Le logo est chargé depuis `assets/logo.png`.
+  
   ![Connexion](screenshots/auth_screen.png)
-- **Écran de chat** : Montre une liste de messages avec les messages de l'utilisateur à droite (en bleu) et les réponses du chatbot à gauche (en gris). En bas, un champ de texte permet d'envoyer des messages avec un bouton d'envoi. 
+- **Écran de chat** : Montre une liste de messages avec les messages de l'utilisateur à droite (en bleu) et les réponses du chatbot à gauche (en gris). En bas, un champ de texte permet d'envoyer des messages avec un bouton d'envoi.
+  
   ![Chatbot](screenshots/chat_screen.png)
 
 ## Remarque
